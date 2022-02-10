@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(29, 49, 48);
+    font-family: "Helvetica Neue";
+}
+
+#title {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+
+    margin-top: 15px;
+    margin-left: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgb(156, 158, 158);
+    font-size: 7.85rem;
+}
+
+#title:hover {
+    color: rgb(126, 108, 110);
+}
+
+.imageContainerBack {
+    padding-top: 1000px;
+}
+
+.imageContainerFront {
+    margin-top: -1245px;
+}
+
+#imageBack {
+    display: flex;
+    justify-content: center;
+    z-index: -10;
+}
+
+#imageFront {
+    display: flex;
+    justify-content: center;
+}
+
+.textboxContainer {
+    margin: auto;
+    margin-top: -2300px;
+    width: 600px;
+}
+
+#bodytext {
+    mix-blend-mode: difference;
+    text-align: left;
+    color: rgb(156, 158, 158);
+    font-size: 2rem;
+}
+
+#spacer {
+    margin-top: 800px;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+}
