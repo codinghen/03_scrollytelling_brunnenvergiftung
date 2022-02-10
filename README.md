@@ -1,3 +1,3 @@
 # scrollytelling_brunnenvergiftung
 
-hosted: https://codinghen.github.io/scrollytelling_brunnenvergiftung/
+https://codinghen.github.io/03_scrollytelling_brunnenvergiftung/
