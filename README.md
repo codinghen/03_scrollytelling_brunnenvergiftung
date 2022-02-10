@@ -4,3 +4,9 @@ this is a scrollytelling about the emergence of the antisemitic conspiracy theor
 
 take a look at the result here:
 https://codinghen.github.io/03_scrollytelling_brunnenvergiftung/
+
+
+notizen / noch zu überarbeiten:
+- neue sans-serif-schrift, url src, sodass sie bei verschiedenen betriebssoftware gleich dargestellt wird
+- grüner rand spacer?
+- position der bildcontainer ist verschieden in unterschiedlich browsern
